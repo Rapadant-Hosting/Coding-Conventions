@@ -3,6 +3,10 @@ Official coding conventions for Rapadant Hosting.
 
 ## Languages
 
-- [Lua](Lua)
-- [C#](CSharp)
 - [C++](C++)
+- [C](C)
+- [Lua](Lua)
+- [NodeJS](NodeJS)
+- [PHP](PHP)
+
+
